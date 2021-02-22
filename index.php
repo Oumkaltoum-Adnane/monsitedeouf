@@ -47,9 +47,9 @@
    
         <h1 class="display-4 text-center my-5 mb-5">Mon Projet Git</h1>
         <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="https://picsum.photos/200/300" class="d-block w-100" alt="...">
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <img src="https://picsum.photos/200/300" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
       <img src="https://picsum.photos/200/300" class="d-block w-100" alt="...">
@@ -67,14 +67,17 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
-     
 
 
+    <ul class="list-group my-3">
+        <li class="list-group-item active" aria-current="true">An active item</li>
+        <li class="list-group-item">A second item</li>
+        <li class="list-group-item">A third item</li>
+        <li class="list-group-item">A fourth item</li>
+        <li class="list-group-item">And a fifth one</li>
+    </ul>
 
-
-
-
-
+    <img src="https://picsum.photos/200/300" alt="">
 
 
    
